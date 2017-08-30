@@ -1,7 +1,7 @@
 # DCMTK-ITK-VTK-DICOMViewer
 
-Used ITK and VTK opensource library to build dicom viewer. 
-Following are the steps to follow to compile and run the DICOMViewer project.
+- Used ITK and VTK opensource library to build dicom viewer. 
+- Following are the steps to follow to compile and run the DICOMViewer project.
 
 # Important Note:
 1. Use x64 configuration to build DCMTK, ITK and VTK library. 
